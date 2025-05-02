@@ -3,3 +3,8 @@ node_modules/
 dist/
 build/
 *.log
+client/node_modules/
+server/node_modules/
+client/dist/
+client/.env
+server/.env
